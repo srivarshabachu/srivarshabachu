@@ -16,15 +16,19 @@ Welcome to my GitHub profile! I'm Srivarsha Bachu, an aspiring Software Develope
 ## Skills
 
 - **Programming Languages:**
-  - C++
-  - Python
-  - Java
-  - C#
-
+  - ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+  - ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 - **Tools and Technologies:**
-  - ASP.NET
-  - React
-  - Machine Learning
+  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white)
+  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+  - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-34A853?logo=google&logoColor=white)
+  - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+  - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+  - ![Azure Data Studio](https://img.shields.io/badge/-Azure%20Data%20Studio-0078D4?logo=microsoft-azure&logoColor=white)
 
 ## Projects
 
