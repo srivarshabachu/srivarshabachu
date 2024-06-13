@@ -61,7 +61,7 @@ I enjoy solving coding challenges on LeetCode to improve my problem-solving skil
 
 ## Connect with me
 - [GitHub](https://github.com/srivarshabachu)
-- [LinkedIn]([https://www.linkedin.com/in/srivarsha](https://www.linkedin.com/in/srivarsha-bachu-b0902823a/))
+- [LinkedIn](https://www.linkedin.com/in/srivarsha-bachu-b0902823a/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=srivarshabachu&color=blue)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivarshabachu&show_icons=true&theme=radical)
