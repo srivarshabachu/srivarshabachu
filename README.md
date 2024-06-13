@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Srivarsha Bachu, an aspiring Software Develope
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on web development and machine learning projects.
 - 💬 Ask me about C++, Python, Java, and C#.
-- 📫 How to reach me: srivarsha@example.com
+- 📫 How to reach me: srivarshabachu@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving puzzles and exploring new technologies.
 
@@ -28,15 +28,35 @@ Welcome to my GitHub profile! I'm Srivarsha Bachu, an aspiring Software Develope
 
 ## Projects
 
-### [Project 1: Awesome ASP.NET App](https://github.com/srivarsha/awesome-aspnet-app)
-A web application built with ASP.NET that does amazing things.
+### [Project 1: Login Authentication and Authorization](https://github.com/srivarshabachu/Authentication)
+A login authentication and authorization system using ASP.NET Core for the backend and ReactJS for the frontend. This project implements secure user authentication and role-based authorization. It includes features like:
+- User registration and login
+- Password hashing and storage
+- Role-based access control
+- Token-based authentication using JWT
+- Secure APIs with ASP.NET Core Identity
+- Responsive front-end built with ReactJS
+- Data management and visualization with Azure Data Studio
 
-### [Project 2: Cool React Project](https://github.com/srivarsha/cool-react-project)
-A React application with dynamic features and a sleek design.
+### [Project 2: Spice Delight](https://github.com/srivarshabachu/spicedelight)
+An online food ordering website called Spice Delight, made using Next.js, TailwindCSS, and MongoDB. This project provides a seamless and user-friendly experience for ordering food online. Key features include:
+- Interactive user interface with Next.js and TailwindCSS
+- Dynamic menu with various categories and items
+- User authentication and order tracking
+- Integration with MongoDB for storing user data, orders, and menu items
+- Responsive design for mobile and desktop users
 
-### [Project 3: ML Model for Data Analysis](https://github.com/srivarsha/ml-data-analysis)
-A machine learning model for analyzing and predicting data trends.
+### [Project 3: Customer Segmentation using K-means](https://github.com/srivarsha/customer-segmentation)
+A customer segmentation project using K-means clustering algorithm. The dataset was sourced from Kaggle. Key features include:
+- Data preprocessing and cleaning
+- Implementation of K-means clustering algorithm
+- Visualization of customer segments
+- Analysis of customer segments to derive business insights
+- Tools used: Python, Pandas, Scikit-learn, Matplotlib
+## LeetCode
 
+I enjoy solving coding challenges on LeetCode to improve my problem-solving skills. 
+- [LeetCode Profile](https://leetcode.com/u/srivarsha789/)
 
 
 ## Connect with me
