@@ -40,10 +40,9 @@ A machine learning model for analyzing and predicting data trends.
 
 
 ## Connect with me
-- [GitHub](https://github.com/srivarsha)
-- [LinkedIn](https://www.linkedin.com/in/srivarsha)
-- [Twitter](https://twitter.com/srivarsha)
+- [GitHub](https://github.com/srivarshabachu)
+- [LinkedIn]([https://www.linkedin.com/in/srivarsha](https://www.linkedin.com/in/srivarsha-bachu-b0902823a/))
 
-![Profile views](https://komarev.com/ghpvc/?username=srivarsha&color=blue)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivarsha&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivarsha&layout=compact&theme=radical)
+![Profile views](https://komarev.com/ghpvc/?username=srivarshabachu&color=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=srivarshabachu&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivarshabachu&layout=compact&theme=radical)
