@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm Srivarsha Bachu, an aspiring Software Develope
 
 ## About Me
 
-- 🎓 I’m currently a pre-final year student at VNRVJIET.
+- 🎓 I’m currently a final year student at VNRVJIET.
 - 🔭 I’m currently working on ASP.NET and React projects.
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on web development and machine learning projects.
